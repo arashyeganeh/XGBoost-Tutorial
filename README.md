@@ -34,10 +34,10 @@ Anyone may contribute to our project. Submit a pull request or raise an issue.
 
 ## Contact with me
 
-| | |
+| | Url |
 | :----------------------------------------------------------: | :-----: |
 |  My Resume  |  [arashyeganeh.github.io](https://arashyeganeh.github.io/)  |
-| My Linkedin profile | [@arash-yeganeh](https://www.linkedin.com/in/arash-yeganeh/) |
+| My LinkedIn profile | [@arash-yeganeh](https://www.linkedin.com/in/arash-yeganeh/) |
 |       My GitHub       | [arashyeganeh](https://github.com/arashyeganeh) |
 | My Kaggle | [arashyeganeh](https://www.kaggle.com/arashyeganeh) |
 
@@ -49,4 +49,4 @@ How can you best support me:
 
 - Give me  [GitHub Stars ⭐](https://github.com/arashyeganeh) 
 - Share my content to someone else 👀
-- Follow me on [linkedin](https://www.linkedin.com/in/arash-yeganeh)
+- Follow me on [Linkedin](https://www.linkedin.com/in/arash-yeganeh)
