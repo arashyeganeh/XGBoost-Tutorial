@@ -1,5 +1,7 @@
 # Chapter1. Introduction to XGBoost
 
+`XGBoost` is a powerful open-source library for regression and classification tasks. it has become widely used due to its speed, scalability, and accuracy. It is optimized for efficiency and flexibility with features such as parallel processing, tree pruning, and built-in regularization to prevent overfitting. XGBoost is compatible with Python, R, Java.
+
 ## What is Gradient boosting
 
 ![](img/gradient_boosting.png)
