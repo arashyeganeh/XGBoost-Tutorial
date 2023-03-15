@@ -22,11 +22,11 @@ This course is designed to provide an in-depth understanding of the XGBoost algo
 
 |           Part            |                          GitHub Doc                          | Project Files 📁 |
 | :-----------------------: | :----------------------------------------------------------: | :-------------: |
-|       Introduction        |      [Link](chapters/Chapter1. Introduction_to_XGBoost)      |        -        |
-| What is Gradient boosting | [Link](chapters/Chapter1. Introduction_to_XGBoost#what-is-gradient-boosting) |        -        |
-|      What is XGBoost      | [Link](chapters/Chapter1. Introduction_to_XGBoost#what-is-xgboost) |        -        |
-|  Alternatives to XGBoost  | [Link](chapters/Chapter1. Introduction_to_XGBoost#alternatives-to-xgboost) |        -        |
-|       Installation        | [Link](chapters/Chapter1. Introduction_to_XGBoost#installation) |        -        |
+|       Introduction        |     [Link](/chapters/Chapter1. Introduction_to_XGBoost)      |        -        |
+| What is Gradient boosting | [Link](/chapters/Chapter1. Introduction_to_XGBoost#what-is-gradient-boosting) |        -        |
+|      What is XGBoost      | [Link](/chapters/Chapter1. Introduction_to_XGBoost#what-is-xgboost) |        -        |
+|  Alternatives to XGBoost  | [Link](/chapters/Chapter1. Introduction_to_XGBoost#alternatives-to-xgboost) |        -        |
+|       Installation        | [Link](/chapters/Chapter1. Introduction_to_XGBoost#installation) |        -        |
 
 ## License
 
