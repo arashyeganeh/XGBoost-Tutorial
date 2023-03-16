@@ -80,9 +80,8 @@ it's another boosting algorithm that works by adding new models to the ensemble 
 
 
 
-> Overall, the choice of algorithm depends on the specific needs of the project, the characteristics of the data, and the trade-offs between factors such as accuracy, speed, and memory efficiency.
+> Overall, the choice of algorithm depends on the specific needs of the project, the characteristics of the data, and the trade-offs between factors such as accuracy, speed, and memory efficiency.s
 >
-> 
 
 ## Installation
 

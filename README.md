@@ -14,7 +14,7 @@ This course is designed to provide an in-depth understanding of the XGBoost algo
 
 * Python ![](https://img.shields.io/badge/-Python-fff6c9?logo=python&logoColor=80c1ed)
 * NumPy ![](https://img.shields.io/badge/-NumPy-cedeff?logo=numpy&logoColor=4B73C9)
-* Pandas ![](https://img.shields.io/badge/-NumPy-ffe0f1?logo=pandas&logoColor=E00484)
+* Pandas ![](https://img.shields.io/badge/-Pandas-ffe0f1?logo=pandas&logoColor=E00484)
 
 ## Course content
 
